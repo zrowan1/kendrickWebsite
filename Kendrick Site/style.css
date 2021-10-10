@@ -1,5 +1,5 @@
 body {
-    background-color: #202020;
+    background-color: #0b0a0a;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
@@ -11,10 +11,11 @@ body {
     color:white;
 }
 .titelText {
-    background-color: #202020;
+    background-color: #0b0a0a;
     margin-bottom: -20px;
     margin-top: -20px;
     margin-left: -8px;
+
 }
 .navigationBar ul {
     list-style-type: none;
@@ -47,18 +48,18 @@ body {
 
 
 .whoIsHe {
-    margin-top: -1.25%;
-    margin-left: -1%;
-    margin-right: -0.6%;
+    margin-top: -16px;
+    margin-left: -20px;
+    margin-right: -8px;
     text-align: center;
-    height: 400px;
+    height: 525px;
 
     background-color: #CAECEB;
 }
 .whoIsHeText {
     text-align: center;
     color: #111;
-    margin-top: 25px;
+    margin-top: 45px;
     display: block;
 }
 .whoIsHe img {
@@ -66,6 +67,53 @@ body {
     margin-top: 4%;
     margin-bottom: 2%;
 }
-.whoIsHe h3 {
-    text-emphasis: Upper Case;
+.history {
+    text-align: center;
+    height: 600px;
+}
+.historyHeader1 {
+    color: white;
+    margin-top: 100px;
+}
+.historyHeader2 {
+    color: white;
+    margin-top: 100px;
+}
+.history p {
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.kendrickYoung {
+    border-radius: 10%;
+    margin-top: 50px;
+}
+.kendrickPerformance {
+    border-radius: 10%;
+    margin-top: 50px;
+}
+.kendrickdiscography {
+    margin-left: -9px;
+    margin-right: -8px;
+    margin-top: 125px;
+    height: 525px;
+    background-color: #272727;
+
+}
+.discographyHeader1 {
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+
+}
+.albumList {
+    text-align: left;
+    padding-left: 400px;
+}
+.section80 {
+    
+}
+.maadcity {
+    
 }
